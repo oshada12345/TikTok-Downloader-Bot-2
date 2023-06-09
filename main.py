@@ -37,7 +37,6 @@ def start(client, message):
                           "__**Developer :**__ __@JayBeeDev__\n"
                           "__**Language :**__ __Python__\n"
                           "__**Framework :**__ __🔥 Pyrogram__",
-                     parse_mode='md',
                      reply_markup=reply_markup)
 
 
